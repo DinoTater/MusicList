@@ -1,0 +1,40 @@
+Beatles
+Sgt Pepper
+Because
+R & B
+5:00
+4
+4
+
+Elvis
+Hits
+Hound Dog
+Rock
+5:00
+9
+1
+
+Bob Dylan
+New Morning
+Man in Me
+Folk
+8:00
+7
+5
+
+The Beegies
+Best of Beegies
+Stayin Alive
+Disco
+6:00
+8
+2
+
+Moody Blues
+Greatest Moods
+Tuesday Afternoon
+Folk
+7:00
+6
+3
+
